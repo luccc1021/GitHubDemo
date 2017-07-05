@@ -23,7 +23,5 @@ public class Wz extends View{
         super(context, attrs);
     }
 
-    public Wz(Context context, AttributeSet attrs, int defStyleAttr, int defStyleRes) {
-        super(context, attrs, defStyleAttr, defStyleRes);
-    }
+
 }
